@@ -5,7 +5,10 @@ using System.Text;
 
 namespace gitHelloWorld
 {
-    class Class1
+    public class People
     {
+
+        public string Name { get; set; }
+        public string Gender { get; set; }
     }
 }
